@@ -8,3 +8,5 @@ The distance array, of float type, consists of 360 members, the ith member stori
 
 The distance array is published on a ROS topic using a unity asset ROS#.
 Using ROS_Bridge_Websocket of the ROS_Bridge_server package we can publish data from Unity on a ROS topic.
+
+<img src = "lidar.jpg" width = "700">
